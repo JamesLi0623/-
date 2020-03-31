@@ -1,3 +1,5 @@
+![](https://i.imgur.com/YKIltkp.jpg)
+
 ## 執行專案前先安裝對應套件，步驟如下
 1. anaconda prompt切到要裝的環境
 2. 輸入 'pip install -r PATH/requirements.txt'
