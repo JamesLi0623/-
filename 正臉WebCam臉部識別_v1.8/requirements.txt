@@ -1,0 +1,8 @@
+cmake==3.12.0
+dlib==19.15.0
+click==6.7
+face-recognition==1.2.2
+face-recognition-models==0.3.0
+opencv-contrib-python==3.4.2.17
+opencv-python==3.4.1.15
+Pillow==5.1.0
